@@ -1,0 +1,169 @@
+TEMPO 526
+MI 4 3/2
+LA 4 1/2
+DO 5 3/2
+LA 4 1/2
+SOL_ 4 3/2
+LA 4 1/4
+SI 4 1/4
+LA 4 2
+FA 4 3/2
+SOL 4 1/4
+LA 4 1/4
+MI 4 2
+RE 4 1/4
+DO 4 1/4
+DO 4 1/4
+SI 3 1/4
+SI 3 3/4
+MI 4 1/4
+LA 3 2
+MI 4 3/2
+LA 4 1/4
+DO 5 1/4
+MI 5 3/2
+DO 5 1/4
+SI 4 3/2
+DO 5 1/4
+RE
+DO 5 2
+FA 5 1/4
+SOL
+LA
+FA
+MI
+FA
+SOL
+MI
+RE
+MI
+FA
+DO
+RE
+MI
+
+DO
+DO
+SI 4 1/4
+SI 4 3/4
+MI 5 1/4
+LA 4 1
+LA 5 1/2
+MI 5 3/2
+LA 5 1/2
+DO 6 3/2
+LA 5 1/2
+SOL_ 5 3/2
+LA 5 1/4
+SI
+LA 5 2
+FA 5 3/4
+SOL 5 1/4
+LA
+MI 5 2
+RE 5 1/4
+DO
+DO
+SI 4
+SI 4 3/4
+MI 5 1/4
+LA 4 2
+FA 4 3/2
+LA 4 1/4
+DO 5
+MI 5 3/2
+DO 5 1/2
+SI 4 3/2
+DO 5 1/4
+RE 5 1/4
+DO 5 2
+FA 5 1/4
+SOL
+LA
+FA
+MI
+FA
+SOL
+MI
+RE
+MI
+FA
+RE
+DO
+RE
+DO
+DO
+SI 4 1/4
+SI 4 3/4
+MI 5 1/4
+LA 4 1
+LA 5 1/2
+_ 5 1/2
+MI 5 1
+MI
+FA 5 3/2
+MI 5 1/2
+_ 5 1/2
+RE 5 1
+DO_ 5 1/4
+RE
+MI
+RE
+DO_
+MI
+RE 5 1/2
+_ 5 1/2
+RE 5 1
+RE
+MI 5 3/2
+MI 5 1/2
+_ 5 1/2
+DO 5 1/2
+SI 4 1/4
+DO 5
+RE
+DO
+SI 4
+RE 5
+DO 5 1/2
+_ 5 1/2
+SI 4 1
+SI 4 1
+RE 5 1/2
+DO 5 1
+SI 4 1/2
+_ 4 1/2
+LA 4 1
+SOL_ 4 1/4
+LA
+SI
+SOL_
+SI
+LA 4 1/2
+_ 4 1/2
+MI 5 1/2
+_ 4 1/2
+_
+MI
+FA_
+_
+SOL_
+_
+LA
+LA 4 1
+SOL_ 4 1/4
+LA
+SI
+LA
+SOL_
+SI
+LA 4 1/2
+_
+LA 5 1/2
+_
+SI 4
+_
+FA 4 1
+_
+_
+

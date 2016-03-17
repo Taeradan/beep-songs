@@ -1,0 +1,125 @@
+TEMPO 200
+SOL 5 3 # L'ouverture n'est pas évidente :(
+SOL 4 1/2
+SOL
+SOL 4 3
+SOL 4 1/2
+SOL 4
+SOL 4 3/4
+RE
+SOL
+RE 5
+DO
+SOL 4
+SOL
+RE
+SOL
+RE 5
+DO 5
+SOL 4
+SOL 4 3/4
+_ 4 1/4
+DO 5 3/4
+_ 5 1/4
+RE 5 3/4
+_ 1/4
+FA 5 5 1
+_ 5 1
+
+TEMPO 250 # En espérant que ces 3 notes soient aussi jouissives qu'en vrai :p
+RE 5 3/4
+_ 5 1/4
+RE 5 3/4
+_ 5 1/4
+RE 5 3/4
+_ 5 1/2 # Mini-respiration... c'est très subjectif
+
+TEMPO 275 # c'est parti !
+SOL 5 4
+RE 6 4
+DO 6 2/3
+SI 5
+LA
+SOL 6 4
+RE 6 2
+DO 6 2/3
+SI 5
+LA
+SOL 6 4
+RE 6 2
+DO 6 2/3
+SI 5
+DO 6
+LA 5 6
+
+
+SOL 5 4
+RE 6 4
+DO 6 2/3
+SI 5
+LA
+SOL 6 4
+RE 6 2
+DO 6 2/3
+SI 5
+LA
+SOL 6 4
+RE 6 2
+FA 6 2/3
+MI
+FA
+RE 6 6
+
+
+SOL 5 4/3
+SOL 5 2/3
+LA 5 10/3
+LA 5 2/3
+FA 6 1
+MI
+RE
+DO
+DO 6 2/3
+RE
+MI
+RE 6 4/3
+LA 5 2/3
+SI 5 2
+
+SOL 5 4/3
+SOL 5 2/3
+LA 5 10/3
+LA 5 2/3
+FA 6 1
+MI
+RE
+DO
+SOL 6 3/2
+RE 6 1/2
+RE 6 6
+
+LA 5 10/3
+LA 5 2/3
+FA 6 1
+MI
+RE
+DO
+DO 6 2/3
+RE
+MI
+RE 6 4/3
+LA 5 2/3
+SI 5 2
+
+RE 6 4/3
+RE 6 2/3
+SOL 6 1
+FA
+RE_ 6 3/2
+RE 6 1/2
+DO 6 1
+LA_ 5
+LA 5 3/2
+SOL 5 1/2
+RE 6 4 # et ainsi de suite...
+

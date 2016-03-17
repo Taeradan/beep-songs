@@ -1,0 +1,91 @@
+TEMPO 545 
+FA_ 4 2
+SOL 4 1
+LA
+LA
+SOL
+FA_
+MI
+RE 4 2
+MI 4 1
+FA_
+FA_ 4 3/2
+MI 4 1/2
+MI 4 2
+
+FA_ 4 2
+SOL 4 1
+LA
+LA
+SOL
+FA_
+MI
+RE 4 2
+MI 4 1
+FA_
+MI 4 3/2
+RE 4 1/2
+RE 4 2
+
+MI 4 2
+FA_ 4 1
+RE
+MI
+FA_ 4 1/2
+SOL
+FA_ 4 1
+RE
+MI
+FA_ 4 1/2
+SOL
+FA_ 4 1
+MI
+RE
+MI
+LA 3
+FA_ 4 2
+FA_ 4 1
+SOL
+LA
+LA
+SOL
+FA_
+MI
+RE 4 2
+MI 4 1
+FA_
+MI 4 3/2
+RE 4 1/2
+RE 4 2
+
+MI 4 2
+FA_ 4 1
+RE
+MI
+FA_ 4 1/2
+SOL
+FA_ 4 1
+RE
+MI
+FA_ 4 1/2
+SOL
+FA_ 4 1
+MI
+RE
+MI
+LA 3
+FA_ 4 2
+FA_ 4 1
+SOL
+LA
+LA
+SOL
+FA_
+MI
+RE 4 2
+MI 4 1
+FA_
+MI 4 3/2
+RE 4 1/2
+RE 4 3
+

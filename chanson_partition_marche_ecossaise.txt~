@@ -1,0 +1,37 @@
+TEMPO 150
+
+LA_ 4 4
+LA_	4 3
+DO 5 1
+RE 5 2
+LA_ 4 2
+RE 5 2
+FA 5 2
+
+LA_ 5 4
+LA_ 5 4
+LA_ 5 1
+LA_ 5 1
+FA 5 2
+RE 5 2
+LA_ 4 2
+
+RE_ 5 4
+SOL 5 3
+RE_ 5 1
+RE 5 2
+FA 5 2
+RE 5 2
+LA_ 4 2
+
+DO 5 4
+FA 5 3
+FA 5 1
+FA 5 7/3
+SOL 5 2/3
+FA 5 4/2
+RE_ 5 2/3
+RE 5 4/3
+DO 5 2/3
+
+LA_ 4 4

@@ -1,0 +1,87 @@
+TEMPO 200
+DO 5 1
+LA 4 1
+SOL 4 1
+FA 4 2
+_ 1
+LA 4 1
+SOL 4 3/2
+FA 4 1/2
+MI 4 1
+RE 4 1
+DO 4 2
+DO 4 2
+_ 1
+DO 5 1
+LA 4 1
+SOL 4 1
+FA 4 1
+_ 1
+LA 4 2
+SOL 4 2
+FA 4 2
+SOL 4 2
+_ 2
+DO 5 1
+LA 4 1
+SOL 4 1
+FA 4 2
+_ 1
+LA 4 1
+SOL 4 3/2
+FA 4 1/2
+MI 4 1
+RE 4 1
+DO 4 2
+DO 4 2
+_ 1
+DO 4 1
+RE 4 1
+MI 4 1
+FA 4 2
+SOL 4 2
+LA 4 2
+SI 4 2
+DO 5 4
+_ 1
+DO 5 1
+RE 5 1
+MI 5 1
+RE 5 5
+LA_ 4 1
+DO 5 1
+RE 5 1
+DO 5 2
+DO 5 3
+LA 4 1
+LA_ 4 1
+DO 5 1
+LA_ 4 2
+SOL 4 2
+LA 4 2
+LA_ 4 2
+LA 4 2
+LA 4 2
+_ 1
+DO 5 1
+LA 4 1
+SOL 4 1
+FA 4 2
+_ 1
+LA 4 1
+SOL 4 3/2
+FA 4 1/2
+MI 4 1
+RE 4 1
+DO 4 2
+DO 4 2
+_ 1
+DO 5 1
+DO 5 1
+DO_ 5 1
+RE 5 2
+RE 5 2
+MI 4 2
+MI 4 2
+FA 4 4
+

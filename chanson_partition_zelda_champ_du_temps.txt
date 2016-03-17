@@ -1,0 +1,19 @@
+TEMPO 600
+SOL 5
+DO 5 2
+RE_ 5 1
+SOL
+DO 5 2
+RE_ 5 1
+SOL 5 1/2
+LA_
+LA 5 1
+FA
+RE_ 5 1/2
+FA
+SOL 5 1
+DO
+LA_ 4 1/2
+RE 5
+DO 5 2
+
